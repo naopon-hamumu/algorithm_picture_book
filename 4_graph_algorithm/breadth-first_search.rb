@@ -28,7 +28,3 @@ graph = {
 
 # 幅優先探索の実行
 breadth_first_search(graph, 'A')
-
-[![Image from Gyazo]
-(https://i.gyazo.com/51f53be851de855e414974ea7fd997fd.png)]
-(https://gyazo.com/51f53be851de855e414974ea7fd997fd)
